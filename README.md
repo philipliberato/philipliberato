@@ -7,7 +7,6 @@ I'm Philip Liberato. Here is some information you may find interesting.
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=philipliberato&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=philipliberato&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=philipliberato&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=philipliberato&theme=solarized_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=philipliberato&theme=solarized_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=philipliberato&theme=solarized_dark)
