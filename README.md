@@ -1,16 +1,10 @@
-Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there,+I'm+Philip+Liberato+👋)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile)](https://git.io/typing-svg)
-
-I'm Philip Liberato. Here is some information you may find interesting.
+Here is some information you may find interesting.
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=philipliberato&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=philipliberato&theme=dark&hide_border=false)<br/>
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=philipliberato&theme=solarized_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=philipliberato&theme=solarized_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=philipliberato&theme=solarized_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=philipliberato&theme=solarized_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=philipliberato&theme=solarized_dark&utcOffset=8)
+![](https://github-readme-streak-stats.herokuapp.com/?user=philipliberato&theme=dark&hide_border=false)<br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=philipliberato&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
