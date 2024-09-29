@@ -1,7 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there,+I'm+Philip+Liberato+👋)](https://git.io/typing-svg)
-
-Here is some information you may find interesting.
-
 # 📊 GitHub Stats:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=philipliberato&theme=solarized_dark)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=philipliberato&theme=dark&hide_border=false)<br/>
@@ -18,8 +14,4 @@ Here is some information you may find interesting.
 ### 😂 Favorite XKCDs
 <img src="https://imgs.xkcd.com/comics/standards_2x.png" width="512px"/>
 <img src="https://imgs.xkcd.com/comics/exploits_of_a_mom.png" width="512px"/>
-<img src="https://imgs.xkcd.com/comics/is_it_worth_the_time_2x.png" width="512px"/>
-<img src="https://imgs.xkcd.com/comics/real_programmers.png" width="512px"/>
-<img src="https://imgs.xkcd.com/comics/password_strength.png" width="512px"/>
-<img src="https://imgs.xkcd.com/comics/haskell_2x.png" width="512px"/>
 <img src="https://imgs.xkcd.com/comics/hofstadter.png" width="512px"/>
