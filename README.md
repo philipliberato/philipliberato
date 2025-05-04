@@ -3,7 +3,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=philipliberato&theme=dark&hide_border=false)<br/>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=philipliberato&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=philipliberato&theme=darkhub&no-frame=false&no-bg=false&margin-w=4&rank=-?,-C)
 
 ### 😂 Favorite XKCDs
 <img src="https://imgs.xkcd.com/comics/standards_2x.png" width="512px"/>
